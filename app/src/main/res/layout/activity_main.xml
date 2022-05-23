@@ -23,7 +23,9 @@
         android:text="MyRestaurants"
         android:textColor="@color/colorTextIcons"
         android:textSize="50sp"
-        android:textStyle="bold" />
+        android:textStyle="bold"
+        android:id="@+id/appNameTextView"
+        />
 
     <EditText
         android:id="@+id/locationEditText"
